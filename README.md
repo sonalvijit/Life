@@ -1,7 +1,7 @@
 # Life
 
 just a little representation of How life goes on...👌 <br>
-Since I can't change the emotion name, though I added `re_evaluated`
+Since I can't change the emotion name, though added `re_evaluated`
 
 ```python
 from random import choice
