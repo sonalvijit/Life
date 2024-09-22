@@ -33,19 +33,19 @@ class Life:
         for emotion in self.emotions:
             print(emotion)
 
-zsdnsou = Life()
-zsdnsou.add_to_life({
+user_unknown = Life()
+user_unknown.add_to_life({
             "emotion": "Joy",
             "EMT_score": 3,
         })
-zsdnsou.add_to_life({
+user_unknown.add_to_life({
             "emotion": "sorrow",
             "EMT_score": -10,
         })
-zsdnsou.add_to_life({
+user_unknown.add_to_life({
             "emotion": "restlessness",
             "EMT_score": -5,
         })
-zsdnsou.display()
+user_unknown.display()
 
 ```
